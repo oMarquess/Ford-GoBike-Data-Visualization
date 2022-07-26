@@ -40,7 +40,11 @@ There were some cleaning needed to the dataset, which were performed at the Data
 > Observation(11): Subscribers take trips mostly during 8-9 am and 4-6 pm which is usually working hours of a company.
 > Observation(12): The customer type of users spend more time on trips compared to the subscriber type.
 > Observation(13): It can be seen from the above plot that subscribers ride much shorter/quicker trips compared to customers on each day of the week.
-> Observation(14): We can see clearly the trips taken by customers and subscribers on weekdays and weekends.
+> Observation 14- It was can be observed that both the customer and subcriber user types have their dominant age groups around age 31.
+> Observation 15-Though not a huge difference, male riders tend to have shorter trips compared to female users, indicated by both a smaller median and shorter Inter Quartile Range.  
+> Observation 16: Subscribers, mostly patronize the service at 8am in the morning,when going to work and 5pm when they've closed from work.
+> Observation 17: Surprisingly, Customers spend more trip time than subcribers.
+
 
 
 
